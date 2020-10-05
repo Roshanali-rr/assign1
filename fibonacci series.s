@@ -1,4 +1,4 @@
-   THUMB    
+     
 	AREA     appcode, CODE, READONLY
      EXPORT __main
 	 ENTRY 
